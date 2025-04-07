@@ -1,5 +1,5 @@
 # Ecommerce-Site
-Full Stack Ecommerce Site Project
+ Ecommerce Site Project
 
 ![Screenshot (4277)](https://github.com/user-attachments/assets/be676087-9c51-4452-a694-f3f1176c0d97)
 login page
